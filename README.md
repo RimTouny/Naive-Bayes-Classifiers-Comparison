@@ -1,4 +1,4 @@
-# **Naive-Bayes-Classifiers-Comparison**
+# **Naive Bayes Classifiers Comparison**
 Explored alternatives for improved performance in ML course, uOttawa 2023.
 This repository contains Python code implementing a [Spambase Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.data) analysis comparing Naïve Bayes classifiers. Evaluated accuracy, confusion matrices on different splits in a Spambase dataset as part of a Machine Learning course project at my study in the University of Ottawa in 2023.
 
