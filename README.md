@@ -33,16 +33,17 @@ Task is to classify the email dataset into two classes: Spam / Not Spam.
 3. **Further Evaluation:**
    - Employed train-test split function, noting dataset shuffling to avoid zero instances of 'spam' in test data.
      ![merge_from_ofoct](https://github.com/RimTouny/Naive-Bayes-Classifiers-Comparison/assets/48333870/8c3296f0-ef3a-474d-bc68-c1879860d84c)
-    ![image](https://github.com/RimTouny/Naive-Bayes-Classifiers-Comparison/assets/48333870/bad81b8a-aa64-4b2b-b5fc-092daab9bfd9)
-![image](https://github.com/RimTouny/Naive-Bayes-Classifiers-Comparison/assets/48333870/ae1cd56a-ae40-4e58-90e4-13039b0282b1)
-
-
-
+     ![image](https://github.com/RimTouny/Naive-Bayes-Classifiers-Comparison/assets/48333870/bad81b8a-aa64-4b2b-b5fc-092daab9bfd9)
+     <p align="center">
+        <img src="https://github.com/RimTouny/Naive-Bayes-Classifiers-Comparison/assets/48333870/ae1cd56a-ae40-4e58-90e4-13039b0282b1" />
+      </p>
 
 4. **Alternate Classifier Assessment:**
    - Explored Bernoulli and Complement Naïve Bayes classifiers, comparing their performance metrics with Gaussian and Multinomial models.
-     ![image](https://github.com/RimTouny/Naive-Bayes-Classifiers-Comparison/assets/48333870/20f4a49d-d649-4b3f-a5e7-efa02f8b592a)
-
+     <p align="center">
+        <img src="https://github.com/RimTouny/Naive-Bayes-Classifiers-Comparison/assets/48333870/20f4a49d-d649-4b3f-a5e7-efa02f8b592a" />
+     </p
+      
 
 5. **Subset Evaluation:**
    - Analyzed four subsets' accuracies, revealing varied performances due to biased training on specific class labels.
